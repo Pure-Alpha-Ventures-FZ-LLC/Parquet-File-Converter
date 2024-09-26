@@ -16,4 +16,4 @@ Data should contain following columns:
 
 File shiould be named using following format:
 1. For Bid Data > TICKER_TIMEINTERVAL.csv 
-2. For Ask Data > TICKER_ask_TIMEINTERVAL.csv, Only needed when ticker_type is "EQUITY"
+2. For Ask Data > TICKER_ask_TIMEINTERVAL.csv, Only needed when ticker_type is "FOREX"
